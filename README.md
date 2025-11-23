@@ -29,10 +29,10 @@ python expense_tracker.py
 
 # Instructions for testing
 1. Start the App: Run the script. You should see the main menu.
-2. Test Adding: Select option 1 . Enter an amount (e.g., 50 ) and a description (e.g., Snacks ).
-3. Test Viewing: Select option 2 . Verify that "Snacks" appears with the correct price.
-4. Test Calculation: Add a second expense (e.g., 100 ). Select option 2 again and verify the total
-matches the sum (e.g., 150.0 ).
+2. Test Adding: Select option 1 . Enter an amount (e.g., 150) and a description (e.g., Coffee ).
+3. Test Viewing: Select option 2 . Verify that "Coffee" appears with the correct price.
+4. Test Calculation: Add a second expense (e.g., 1200 ). Select option 2 again and verify the total
+matches the sum (e.g., 1350 ).
 5. Test Exit: Select option 3 to close the application.
 
 # Screenshots 
