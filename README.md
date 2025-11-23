@@ -22,7 +22,6 @@ entirely in the terminal, ensuring zero distractions and instant execution.
 1. Prerequisites: Ensure you have Python installed on your system. You can verify this by typing
 python --version in your terminal.
 2. Download: Clone this repository or download the expense_tracker.py file.
-git clone [https://github.com/your-username/expense-tracker.git](https://github.com
 3. Navigate: Open your terminal or command prompt and navigate to the folder containing the file.
 cd expense-tracker
 4. Run: Execute the script using the python command:
