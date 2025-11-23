@@ -37,7 +37,9 @@ matches the sum (e.g., 150.0 ).
 5. Test Exit: Select option 3 to close the application.
 
 # Screenshots 
-<img width="197" height="208" alt="image" src="https://github.com/user-attachments/assets/379703fe-c9d2-475b-a9ec-d5ecea3d9d9d" />
-<img width="314" height="149" alt="image" src="https://github.com/user-attachments/assets/6e919405-8867-421e-9664-bd9bd43094dd" />
-<img width="269" height="160" alt="image" src="https://github.com/user-attachments/assets/721463ce-cd41-4d31-b44f-249cb4e7323e" />
+1) Main Menu : <img width="197" height="208" alt="image" src="https://github.com/user-attachments/assets/379703fe-c9d2-475b-a9ec-d5ecea3d9d9d" />
+
+2) Adding an Expense : <img width="314" height="149" alt="image" src="https://github.com/user-attachments/assets/6e919405-8867-421e-9664-bd9bd43094dd" />
+
+3) Viewing Summary : <img width="269" height="160" alt="image" src="https://github.com/user-attachments/assets/721463ce-cd41-4d31-b44f-249cb4e7323e" />
 
